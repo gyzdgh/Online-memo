@@ -32,3 +32,4 @@ function Toast(msg, time) {
 }
 
 module.exports.Toast = Toast;
+
